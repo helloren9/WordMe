@@ -1,3 +1,3 @@
-# WordMe
+# WordUp
 
 Wordle clone
